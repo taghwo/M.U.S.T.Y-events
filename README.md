@@ -1,9 +1,9 @@
 
 ## About Task
 
-An envents image voting app built with Laravel, Tailwinds and Livewire
+An events image voting app built with Laravel, Tailwinds and Livewire
 
-Has a small admin panel where new events can be created, and an index page where logged in users can vote for event image.
+Has an admin panel where new events can be created, and an index page where logged in users can vote for event image.
 
 Once a user votes for an image, the option to vote for that same event is taken away.
 
@@ -25,12 +25,11 @@ Once a user votes for an image, the option to vote for that same event is taken 
     `php artisan storage:link`
     'php artisan serve`
 ```
-
-6. ```sh
-Accounts for quick test run
-    Admin account : admin@email.com
-    First User account : firstuser@email.com
-    Second User account : seconduser@email.com
+ ```sh
+    ##Accounts for quick test run
+    `Admin account : admin@email.com`
+    `First User account : firstuser@email.com`
+    `Second User account : seconduser@email.com`
 
     ## password == password
 ```
